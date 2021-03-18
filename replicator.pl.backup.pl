@@ -8,11 +8,11 @@ use strict;
 our $source_dsn = 'runbaa';
 our $source_db = 'nares';
 our $source_user = 'Aasandha';
-our $source_pass = 'UHIP@DNR';
+our $source_pass = '';
 our $dest_dsn = 'runbaaold';
 our $dest_db = 'nares';
 our $dest_user = 'Aasandha';
-our $dest_pass = 'UHIP@DNR';
+our $dest_pass = '';
 
 our $sourceIP = '192.168.22.3';
 our $destinationIP = '192.168.22.11';
